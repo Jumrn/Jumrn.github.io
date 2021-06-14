@@ -1,0 +1,27 @@
+h1{
+font-size: 30px;
+text-align: center;
+color: #FF9696
+}
+
+h2{
+font-size: 30px;
+text-align: center;
+color: #FF9696
+}
+
+body{
+font-size: 16px;
+font-family: Helvetica, sans-serif;
+text-align: center;
+color: #242424;
+background-image: url(images/fond.png);
+}
+
+ul li{
+	display: block;
+}
+
+li{
+	list-style-type: none;
+}
